@@ -1,0 +1,2 @@
+Este es el archivo_02.txt
+Añadimos esta frase
